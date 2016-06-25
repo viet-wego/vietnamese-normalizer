@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_92-b14 (Oracle Corporation)
+Bundle-Name: vietnamese-normalizer
+Bundle-Version: 0.1.0
+Bundle-Date: 2016-06-25 19:28:13 ICT
+Implementation-Title: vietnamese-normalizer
+Implementation-Version: 0.1.0
+Implementation-URL: https://github.com/viettd
+

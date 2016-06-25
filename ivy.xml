@@ -1,0 +1,6 @@
+<ivy-module version="2.4">
+    <info organisation="com.github.viettd" module="vietnamese-normalizer" />
+    <dependencies>
+        <dependency org="org.elasticsearch" name="elasticsearch" rev="2.3.3"/>
+    </dependencies>
+</ivy-module>
